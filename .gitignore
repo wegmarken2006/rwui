@@ -1,0 +1,8 @@
+/target
+/static
+*.go
+.vscode
+/examples/ksink/static
+/examples/ksink/target
+/examples/minimal/static
+/examples/minimal/target

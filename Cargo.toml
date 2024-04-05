@@ -1,0 +1,9 @@
+[package]
+name = "rwui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+webbrowser = "0.8.13"
+tungstenite = "0.21.0"
+crossbeam-channel = "0.5.12"
