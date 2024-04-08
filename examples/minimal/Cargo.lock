@@ -350,6 +350,7 @@ checksum = "f2ff9a1f06a88b01621b7ae906ef0211290d1c8a168a15542486a8f61c0833b9"
 [[package]]
 name = "rwui"
 version = "0.1.0"
+source = "git+https://github.com/wegmarken2006/rwui#5a73e9ca44c05bf3debc1901aee6cde32b267afc"
 dependencies = [
  "crossbeam-channel",
  "tungstenite",
