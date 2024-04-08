@@ -162,7 +162,7 @@ fn main() {
     let img4 = gc.image_new("abstract.jpg", 300, 100);
 
     let rs1 = gc.rangeslider_new(50.0, 0.0, 100.0, 1.0);
-    let rd_choices = vec!["do nothing", "abstract.jpg", "bricks.jpg"];
+    let rd_choices = vec!["do nothing", "abstract.jpg", "sunset.jpg"];
     let rd1 = gc.radio_new(&rd_choices, 1);
     let pb1 = gc.pillbadge_new("danger", "50");
 
